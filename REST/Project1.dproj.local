@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/09 20:58:09.000.777,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/01/09 20:58:11.000.349,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/01/09 20:59:32.000.447,D:\Worksheet\Kuliah\REST\WebModuleUnit1.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2022/01/09 20:59:32.000.447,D:\Worksheet\Kuliah\REST\WebModuleUnit1.pas=C:\Users\USER\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/01/09 21:09:39.000.261,D:\Worksheet\Kuliah\REST\FormUnit1.pas=C:\Users\USER\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/01/09 21:09:39.000.261,D:\Worksheet\Kuliah\REST\FormUnit1.dfm=C:\Users\USER\Documents\Embarcadero\Studio\Projects\FormUnit1.dfm</Transaction>
+    <Transaction>2022/01/09 21:09:42.000.188,D:\Worksheet\Kuliah\REST\Project1.dproj=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
